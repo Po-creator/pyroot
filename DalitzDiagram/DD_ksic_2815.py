@@ -3,6 +3,7 @@
 
 from ROOT import *
 import array, random
+print("DAROVA")
 
 c1 = TCanvas("c1","", 600, 600)
 h1 = TH2F("h1", "", 100, 0., 3., 100, 0. , .5 ) 
